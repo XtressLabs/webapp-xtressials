@@ -57,7 +57,7 @@ export default class TitleBlock extends React.Component {
             <div className="ibm--grid">
               <div className="ibm--row">
                 <div className="title-block__content ibm--col-lg-12 ibm--col-md-7">
-                  <div className="eye-bee-m">{eyeBeeM}</div>
+                  <div className="eye-bee-m"></div>
                   <h1 className="title-block__text">{children}</h1>
                 </div>
               </div>

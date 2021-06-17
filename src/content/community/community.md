@@ -74,10 +74,10 @@ It’s time to change<br>the design game.
 
 <column lg="4" md="4">
 <tile title_size="small"
-    href="/community/Sophie/"
-    caption="community/Sophie"
-    title="Sophie Kirk">
-<img src="Sophie/608x608.jpg" alt="Portrait of Sophie Kirk" />
+    href="/community/Pratyaksh/"
+    caption="community/Pratyaksh"
+    title="Pratyaksh Gupta">
+<img src="Pratyaksh/608x608.png" alt="Portrait of Pratyaksh Gupta" />
 </tile>
 </column>
 

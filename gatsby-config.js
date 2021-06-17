@@ -7,7 +7,7 @@ const { PATH_PREFIX = '/' } = process.env;
 module.exports = {
   pathPrefix: PATH_PREFIX,
   siteMetadata: {
-    title: 'IBM Design',
+    title: 'Xtressials',
   },
   plugins: [
     {
@@ -21,8 +21,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `IBM Design`,
-        short_name: `IBM Design`,
+        name: `Xtressials`,
+        short_name: `Xtressials`,
         start_url: `/`,
         background_color: `#171717`,
         theme_color: `#000000`,

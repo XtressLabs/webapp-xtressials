@@ -135,27 +135,27 @@ class Layout extends React.Component {
               <WebsiteFooter
                 logoOffset={false}
                 linksCol1={[
-                  { href: 'https://www.ibm.com/privacy', linkText: 'Privacy' },
+                  { href: 'https://www.xtressials.tech/privacy', linkText: 'Privacy' },
                   {
-                    href: 'https://www.ibm.com/legal',
+                    href: 'https://www.xtressials.tech/legal',
                     linkText: 'Terms of Use',
                   },
-                  { href: 'https://www.ibm.com', linkText: 'IBM.com' },
+                  { href: 'https://www.xtressials.tech', linkText: 'Xtressials.Tech' },
                 ]}
                 linksCol2={[
                   {
-                    href: 'https://twitter.com/ibmdesign',
+                    href: 'https://twitter.com/xtressials',
                     linkText: 'Twitter',
                   },
                   {
-                    href: 'https://facebook.com/ibmdesign',
-                    linkText: 'Facebook',
+                    href: 'https://www.linkedin.com/company/71425738',
+                    linkText: 'LinkedIn',
                   },
                 ]}>
                 <p>
                   Have questions? Please{' '}
                   <a
-                    href="mailto:ibmdesign@us.ibm.com"
+                    href="mailto:oscillator25@xtresscloud.net"
                     target="_blank"
                     rel="noopener"
                     rel="noreferrer">
@@ -165,7 +165,7 @@ class Layout extends React.Component {
                 <p>
                   Last updated {lastUpdated}
                   <br />
-                  Copyright © {currentYear} IBM
+                  Copyright © {currentYear} Xtressials
                 </p>
               </WebsiteFooter>
             </div>

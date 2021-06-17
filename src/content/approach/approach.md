@@ -12,8 +12,8 @@ business problems
 <anchor-links>
 
 <ul>
-<li><a data-scroll href="#design-philosophy">Design Philosophy</a></li>
-<li><a data-scroll href="#design-thinking">Design Thinking</a></li>
+<li><a data-scroll href="#sustainability">Sustainability</a></li>
+<li><a data-scroll href="#decentralization">Decentralization</a></li>
 <li><a data-scroll href="#design-services">Design Services</a></li>
 </ul>
 
@@ -35,22 +35,22 @@ business problems
 <tile
     feature="true"
     feature_style="alt"
-    feature_heading="Design philosophy"
+    feature_heading="Sustainability"
     feature_heading_secondary="The beliefs behind everything we do"
     feature_background="black"
     feature_description="Design is about giving people a path, both emotionally and functionally, towards their goals."
-    href="/approach/design-philosophy/"
+    href="/approach/sustainability/"
     title="Learn more">
 <img src="images/philosophy.svg" alt="Geometric shapes"/>
 </tile>
 <tile
     feature="true"
     feature_style="alt"
-    feature_heading="Design thinking"
+    feature_heading="Decentralization"
     feature_heading_secondary="Human-centered design at scale"
     feature_background="magenta-20"
     feature_description="Learn how you can apply the same framework our teams use every day."
-    href="/approach/design-thinking/"
+    href="/approach/decentralization/"
     title="Learn more">
 <img src="images/design-thinking.svg" alt="Geometric shapes"/>
 </tile>

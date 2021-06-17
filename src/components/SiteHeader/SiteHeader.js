@@ -69,8 +69,8 @@ const SiteHeader = ({
                 onClick={onToggleNav}
                 isActive={isNavExpanded}
               />
-              <HeaderName prefix="IBM" to="/" element={Link}>
-                Design
+              <HeaderName prefix="Xtressials" to="/" element={Link}>
+
               </HeaderName>
 
               <HeaderNavigation aria-label="Main Navigation">
@@ -81,12 +81,12 @@ const SiteHeader = ({
                   <HeaderMenuItem
                     to="/approach/design-philosophy/"
                     element={Link}>
-                    Design philosophy
+                    Sustainability
                   </HeaderMenuItem>
                   <HeaderMenuItem
                     to="/approach/design-thinking/"
                     element={Link}>
-                    Design thinking
+                    Decentralization
                   </HeaderMenuItem>
                   <HeaderMenuItem
                     to="/approach/design-services/"
@@ -94,25 +94,25 @@ const SiteHeader = ({
                     Design services
                   </HeaderMenuItem>
                 </HeaderMenu>
-                <HeaderMenuItem to="/teams/" element={Link}>
-                  Teams
+                <HeaderMenuItem to="/aboutus/" element={Link}>
+                  About Us
                 </HeaderMenuItem>
-                <HeaderMenuItem to="/practices/" element={Link}>
-                  Practices
+                <HeaderMenuItem to="/projects/" element={Link}>
+                  Projects & Partners
                 </HeaderMenuItem>
-                <HeaderMenu aria-label="Impact" className={approachClassName}>
-                  <HeaderMenuItem to="/impact/" element={Link}>
+                <HeaderMenu aria-label="Open Source" className={approachClassName}>
+                  <HeaderMenuItem to="/opensource/" element={Link}>
                     Overview
                   </HeaderMenuItem>
                   <HeaderMenuItem
-                    to="/impact/abd/"
+                    to="/opensource/the-help-network/"
                     element={Link}>
-                    America by Design
+                    The Help Network
                   </HeaderMenuItem>
                   <HeaderMenuItem
-                    to="/impact/think/"
+                    to="/opensource/things-community-manipal/"
                     element={Link}>
-                    Think
+                    The Things Network Manipal
                   </HeaderMenuItem>
                 </HeaderMenu>
               </HeaderNavigation>
@@ -155,27 +155,27 @@ const SiteHeader = ({
                     Design services
                   </SideNavMenuItem>
                 </SideNavMenu>
-                <SideNavLink to="/teams/" element={Link}>
-                  Teams
+                <SideNavLink to="/aboutus/" element={Link}>
+                  About Us
                 </SideNavLink>
-                <SideNavLink to="/practices/" element={Link}>
-                  Practices
+                <SideNavLink to="/projects/" element={Link}>
+                  Projects
                 </SideNavLink>
                 <SideNavMenu
-                  title="Impact"
+                  title="Open Source"
                   defaultExpanded={approachActive ? true : false}>
-                  <SideNavMenuItem to="/impact/" element={Link}>
+                  <SideNavMenuItem to="/opensource/" element={Link}>
                     Overview
                   </SideNavMenuItem>
                   <SideNavMenuItem
-                    to="/impact/abd/"
+                    to="/opensource/the-help-network/"
                     element={Link}>
-                    America by Design
+                    The Help Network
                   </SideNavMenuItem>
                   <SideNavMenuItem
-                    to="/impact/think/"
+                    to="/opensource/things-community-manipal/"
                     element={Link}>
-                    Think
+                    The Things Network Manipal
                   </SideNavMenuItem>
                 </SideNavMenu>
               </SideNavItems>
@@ -185,53 +185,53 @@ const SiteHeader = ({
               aria-label="Site switcher"
               isSwitcherOpen={isSwitcherExpanded}
               links={[
-                { 
-                  href: 'https://www.ibm.com/design/', 
-                  linkText: 'IBM Design' 
-                },
                 {
-                  href: 'https://www.ibm.com/design/language/',
-                  linkText: 'IBM Design Language',
-                },
-                {
-                  href: 'https://www.ibm.com/brand/',
-                  linkText: 'IBM Brand Center',
-                },
-                {
-                  href: 'https://www.ibm.com/able/',
-                  linkText: 'IBM Accessibility',
-                },
-                {
-                  href: 'https://www.carbondesignsystem.com',
-                  linkText: 'Product',
-                },
-                {
-                  href: 'https://www.ibm.com/standards/web/',
-                  linkText: 'Digital',
-                },
-                {
-                  href: 'https://www.ibm.com/design/event/',
-                  linkText: 'Event',
+                  href: '#',
+                  linkText: 'XtressBot'
                 },
                 {
                   href: '#',
-                  linkText: 'Workplace',
+                  linkText: 'XtressCloud',
                 },
                 {
-                  href: 'https://www.ibm.com/design/thinking/',
-                  linkText: 'Enterprise Design Thinking',
+                  href: 'https://xtresshealth.mybluemix.net/',
+                  linkText: 'XtressHealth',
                 },
                 {
-                  href: 'https://www.ibm.com/design/research/',
-                  linkText: 'IBM Design Research',
+                  href: '#',
+                  linkText: 'XtressVue',
                 },
                 {
-                  href: 'https://www.ibm.com/design/ai/',
-                  linkText: 'IBM Design for AI',
+                  href: 'https://github.com/orgs/Xtressials',
+                  linkText: 'Projects',
                 },
                 {
-                  href: 'https://www.ibm.com/services/ibmix/',
-                  linkText: 'IBM iX',
+                  href: 'http://xtressials.eventbrite.com',
+                  linkText: 'Events',
+                },
+                {
+                  href: 'http://xtressials.eventbrite.com',
+                  linkText: 'Newsletter',
+                },
+                {
+                 // href: 'https://enjoytheprocess.substack.com/',
+                 // linkText: 'Newsletter',
+                },
+                {
+                  href: '#',
+                  linkText: 'XtressHub',
+                },
+                {
+                  href: '#',
+                  linkText: 'The Help Network',
+                },
+                {
+                  href: 'https://www.thethingsnetwork.org/community/manipal/',
+                  linkText: 'The Things Network Manipal',
+                },
+                {
+                  //href: '#',
+                  //linkText: 'IBM iX',
                 },
               ]}
             />

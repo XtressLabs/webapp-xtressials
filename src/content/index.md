@@ -39,7 +39,7 @@ Empathy is our<br/>foundation, always.
 <column lg="12" offset_lg="4">
 
 <tile
-    href="https://www.ibm.com/design/racial-equity-in-design"
+    href="#"
     new_window="false"
     size="lg"
     background="#373737"
@@ -52,7 +52,7 @@ Empathy is our<br/>foundation, always.
 <column lg="4" md="4" offset_lg="4">
 
 <tile
-    href="https://www.ibm.com/design/racial-equity-in-design/our-call-to-action"
+    href="#"
     dark="false"
     title="Our call to action">
 <img src="images/REiD_Call_to_action_LANDING.png" alt="Graphic of a finger pressing a key and pulses coming from it."/>
@@ -62,7 +62,7 @@ Empathy is our<br/>foundation, always.
 <column lg="4" md="4">
 
 <tile
-    href="https://www.ibm.com/design/racial-equity-in-design/podcast/its-about-time"
+    href="#"
     dark="false"
     title="Podcast: It’s about time">
 <img src="images/REiD_podcast_LANDING.png" alt="Photo of Nigel Prentice"/>
@@ -72,7 +72,7 @@ Empathy is our<br/>foundation, always.
 <column lg="4" md="4" offset_lg="0"  offset_md="4">
 
 <tile
-    href="https://www.ibm.com/design/racial-equity-in-design/field-guide"
+    href="#"
     dark="false"
     title="Field Guide">
 <img src="images/REiD_field_guide_LANDING.png" alt="Photo of the Field Guide"/>
@@ -107,10 +107,10 @@ Empathy is our<br/>foundation, always.
 <column lg="4" md="4" offset_lg="4">
 
 <tile
-    href="/community/Dawn/"
-    title="Dawn Ahukanna"
+    href="/community/Vishesh/"
+    title="Vishesh Ghorawat"
     icon="arrowRight">
-<img src="community/Dawn/608x608.jpg" alt="Portrait of Dawn Ahukanna" />
+<img src="community/Vishesh/608x608.jpg" alt="Portrait of Vishesh Ghorawat" />
 </tile>
 
 </column>
@@ -118,38 +118,38 @@ Empathy is our<br/>foundation, always.
 <column lg="4" md="4">
 
 <tile
-    href="/community/Ruchi/"
-    title="Ruchi Batra"
+    href="/community/Ishika/"
+    title="Ishika Gupta"
     icon="arrowRight">
-<img src="community/Ruchi/608x608.jpg" alt="Portrait of Ruchi Batra" />
+<img src="community/Ishika/608x608.jpg" alt="Ishika Gupta" />
 </tile>
 
 </column>
 
 <column lg="4" md="4">
 <tile
-    href="/community/SarahB/"
-    title="Sarah Brooks"
+    href="/community/Laaboni/"
+    title="Laaboni Mukerjee"
     icon="arrowRight">
-<img src="community/SarahB/608x608.jpg" alt="Portrait of Sarah Brooks" />
+<img src="community/Laaboni/608x608.jpg" alt="Portrait of Laaboni Mukerjee" />
 </tile>
 </column>
 
 <column lg="4" md="4" offset_lg="4">
 <tile
-    href="/community/Jodi/"
-    title="Jodi Cutler"
+    href="/community/Harshit/"
+    title="Harshit Yaduka"
     icon="arrowRight">
-<img src="community/Jodi/608x608.jpg" alt="Portrait of Jodi Cutler" />
+<img src="community/Harshit/608x608.jpg" alt="Portrait of Harshit Yaduka" />
 </tile>
 </column>
 
 <column lg="4" md="4">
 <tile
-    href="/community/Sophie/"
-    title="Sophie Kirk"
+    href="/community/Pratyaksh/"
+    title="Pratyaksh Gupta"
     icon="arrowRight">
-<img src="community/Sophie/608x608.jpg" alt="Portrait of Sophie Kirk" />
+<img src="community/Pratyaksh/608x608.png" alt="Portrait of Pratyaksh Gupta" />
 </tile>
 </column>
 
@@ -184,37 +184,37 @@ Empathy is our<br/>foundation, always.
 
 <column lg="4" md="4" >
 <tile
-    href="/community/Sabine/"
-    title="Sabine Roehl"
+    href="/community/Ujjwal/"
+    title="Ujjwal Reddy"
     icon="arrowRight">
-<img src="community/Sabine/608x608.jpg" alt="Portrait of Sabine Roehl" />
+<img src="community/Ujjwal/608x608.jpg" alt="Portrait of Ujjwal Reddy" />
 </tile>
 </column>
 
 <column lg="4" md="4" offset_lg="4">
 <tile
-    href="/community/Shani/"
-    title="Shani Sandy"
+    href="/community/Shriti/"
+    title="Shriti Chandra"
     icon="arrowRight">
-<img src="community/Shani/608x608.jpg" alt="Portrait of Shani Sandy" />
+<img src="community/Shriti/608x608.png" alt="Portrait of Shriti Chandra" />
 </tile>
 </column>
 
 <column lg="4" md="4" >
 <tile
-    href="/community/Joni/"
-    title="Joni Saylor"
+    href="/community/Pranav/"
+    title="Pranav Prabhu"
     icon="arrowRight">
-<img src="community/Joni/608x608.jpg" alt="Portrait of Joni Saylor" />
+<img src="community/Pranav/608x608.jpg" alt="Portrait of Pranav Prabhu" />
 </tile>
 </column>
 
 <column lg="4" md="4" >
 <tile
-    href="/community/Jordan/"
-    title="Jordan Shade"
+    href="/community/Jai/"
+    title="Jai Chhaya"
     icon="arrowRight">
-<img src="community/Jordan/608x608.jpg" alt="Portrait of Jordan Shade" />
+<img src="community/Jai/608x608.png" alt="Portrait of Jai Chhaya" />
 </tile>
 </column>
 
@@ -258,8 +258,8 @@ Empathy is our<br/>foundation, always.
 <column lg="4" md="4">
 
 <tile title_size="small"
-    href="/impact/quantum/"
-    title="Gallery: Quantum computing">
+    href="/opensource/the-help-network/"
+    title="The Help Network">
 <img src="images/Image_1.jpg" alt="" />
 </tile>
 
@@ -267,24 +267,24 @@ Empathy is our<br/>foundation, always.
 <column lg="4" md="4">
 
 <tile title_size="small"
-    href="https://www.youtube.com/watch?v=yrI8S1906Ug"
-    title="Video: Building a security operations center on wheels">
-<img src="images/Image_2.jpg" alt=""/>
+    href="https://www.canva.com/design/DAEhl80Ht7A/YVX2-ql7QWTMkLwWBe8uxQ/watch?utm_content=DAEhl80Ht7A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+    title="Video: How XtressVue aims to save lives?">
+<img src="images/Image_4.png" alt=""/>
 </tile>
 
 </column>
 <column lg="4" md="4" offset_lg="0"  offset_md="4">
 
 <tile title_size="small"
-    href="https://www.tdc.org/competitions/typeface-design-2018/"
-    title="2018 Typeface design competition: Plex wins Judges’ Choice">
-<img src="images/Image_3.jpg" alt=""/>
+    href="https://www.thethingsnetwork.org/community/manipal/"
+    title="The Things Network Community Manipal">
+<img src="images/Image_3.png" alt=""/>
 </tile>
 
 </column>
 <column lg="4" offset_lg="12" text_align="right">
 
-[View more](/impact/)
+[View more](/opensource/)
 
 </column>
 
