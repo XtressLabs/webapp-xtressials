@@ -64,7 +64,7 @@ even tries to solve.</span>
 <column lg="4" md="4" offset_lg="4">
 
 <tile
-    href=""
+    href="#"
     dark="true"
     title="Xtressials Safety, Security & Surveillance Retrofit">
 <img src="images/Image_3.png" alt=""/>
