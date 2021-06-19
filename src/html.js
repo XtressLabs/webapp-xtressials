@@ -20,15 +20,15 @@ export default class HTML extends React.Component {
             window.digitalData = {
               page: {
                 category: {
-                  primaryCategory: 'DESIGN',
+                  primaryCategory: '',
                 },
                 pageInfo: {
-                  productTitle: 'IBM Design',
+                  productTitle: '',
                   ibm: {
-                    siteID: 'DESIGN',
-                    country: 'US',
-                    industry: 'Design',
-                    owner: 'Alison Joseph/Austin/IBM',
+                    siteID: '',
+                    country: '',
+                    industry: '',
+                    owner: '',
                   },
                 },
               },
@@ -66,3 +66,4 @@ HTML.propTypes = {
   body: PropTypes.string,
   postBodyComponents: PropTypes.array,
 };
+
