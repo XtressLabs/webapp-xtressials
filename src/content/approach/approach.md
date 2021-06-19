@@ -41,7 +41,7 @@ Sustainability
     feature_description="True innovation is about giving people a path, both emotionally and functionally, towards sustainability."
     href="#"
     title="Learn more">
-<img src="images/philosophy.svg" alt="Geometric shapes"/>
+<img src="images/philosophy.svg" alt="Sustainability"/>
 </tile>
 <tile
     feature="true"
@@ -63,5 +63,5 @@ Sustainability
     feature_description="At Xtressials, we imagine the solutions of the future, with the capacity to scale."
     href="#"
     title="Learn more">
-<img src="images/services.svg" alt="Ven diagram emphasizing overlapping area"/>
+<img src="images/services.svg" alt="Decentralization"/>
 </tile>

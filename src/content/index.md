@@ -88,7 +88,7 @@ Empathy is <br/>our foundation.
 
 </column>
 
-<!-- Featured Community Start -->
+<!-- Featured Community Start 
 
 <column lg="4" md="5">
 
