@@ -121,8 +121,8 @@ with collaboration.<br>
 </column>
 
 <column lg="4"  md="4">
-  <tile title_size="small" title="Gallery: Partner Projects" href="#">
-    <img src="images/Image_2.jpg" alt=""/>
+  <tile title_size="small" title="XtressCare" href="#">
+    <img src="images/Image_19.png" alt=""/>
   </tile>
 
 </column>
@@ -138,17 +138,10 @@ with collaboration.<br>
 ### Community Partners
 
 </column>
-
-<column lg="4" md="4">
-  <tile title_size="small" title="Gallery: Community Events" href="#">
-    <img src="images/Image_5.jpg" alt=""/>
-  </tile>
-
-</column>
 <column lg="4" md="4">
 
   <tile title_size="small" title="IEEE Student Branch Manipal" href="https://ieeemanipal.com/">
-    <img src="images/Image_6.jpg" alt=""/>
+    <img src="images/Image_6.png" alt=""/>
   </tile>
 
 </column>
@@ -166,12 +159,28 @@ with collaboration.<br>
 
 </column>
 
-<column lg="4" md="4">
-  <tile title_size="small" title="GitHub" href="https://github.com/">
-    <img src="images/Image_8.jpg" alt=""/>
+<column lg="7" md="5">
+
+</column>
+</grid>
+
+<grid>
+<column lg="4" md="4" offset_lg="4">
+
+  <tile title_size="small" title="GitHub Student Developer Pack" href="https://education.github.com/pack">
+    <img src="images/Image_8.png" alt=""/>
   </tile>
 
 </column>
+
+<column lg="4" md="4">
+
+  <tile title_size="small" title="Mural" href="https://www.mural.co/">
+    <img src="images/Image_13.png" alt=""/>
+  </tile>
+
+</column>
+
 <column lg="4" md="4">
 
   <tile title_size="small" title="GitBook" href="https://www.gitbook.com/">
@@ -179,7 +188,8 @@ with collaboration.<br>
   </tile>
 
 </column>
-<column lg="4" md="4" offset_lg="0"  offset_md="4">
+
+<column lg="4" md="4" offset_lg="4">
 
   <tile title_size="small" title="Airtable" href="https://airtable.com/">
     <img src="images/Image_10.png" alt=""/>
