@@ -15,7 +15,7 @@ title: The Things Community Manipal
 <grid background="gray-10">
 <column md="2" lg="4">
 
-### Think
+### The Things Network Community Manipal
 
 </column>
 
