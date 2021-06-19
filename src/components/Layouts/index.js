@@ -81,12 +81,12 @@ class Layout extends React.Component {
                 {
                   name: 'description',
                   content:
-                    'At IBM, our design philosophy is to help guide people so they can do their best work. Our human-centered design practices help us deliver on that goal.',
+                    '',
                 },
                 {
                   name: 'keywords',
                   content:
-                    'IBM, design, design thinking, design system, human-centered design, user-centered design, design services',
+                    '',
                 },
                 {
                   name: 'twitter:card',
@@ -98,17 +98,17 @@ class Layout extends React.Component {
                 },
                 {
                   name: 'twitter:title',
-                  content: 'IBM Design',
+                  content: '',
                 },
                 {
                   name: 'twitter:description',
                   content:
-                    'At IBM, our design philosophy is to help guide people so they can do their best work.',
+                    '',
                 },
                 {
                   name: 'twitter:image',
                   content:
-                    'https://media.licdn.com/dms/image/C4D22AQGYrpghhY5wNQ/feedshare-shrink_8192/0?e=1550019600&v=beta&t=ZZ_vrBmH0IR6N6IjJI6alKcJBwU_PX9TtqkBbjVl9ps',
+                    '',
                 },
               ]}
               link={[
