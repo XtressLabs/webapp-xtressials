@@ -142,7 +142,7 @@ Empathy is <br/>our foundation.
     href="#"
     title="Jai Chhaya"
     icon="arrowRight">
-<img src="community/Jai/608x608.jpg" alt="Portrait of Jai Chhaya" />
+<img src="community/Jai/608x608.png" alt="Portrait of Jai Chhaya" />
 </tile>
 
 </column>
