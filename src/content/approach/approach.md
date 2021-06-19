@@ -39,7 +39,7 @@ Sustainability
     feature_heading_secondary="The beliefs behind everything we do"
     feature_background="black"
     feature_description="True innovation is about giving people a path, both emotionally and functionally, towards sustainability."
-    href="/approach/sustainability/"
+    href="#"
     title="Learn more">
 <img src="images/philosophy.svg" alt="Geometric shapes"/>
 </tile>
@@ -50,7 +50,7 @@ Sustainability
     feature_heading_secondary="Human-centered experience at scale"
     feature_background="magenta-20"
     feature_description="Learn how we tends to enjoy our journey to pave way to a sustainable future."
-    href="/approach/enjoy-the-process/"
+    href="#"
     title="Learn more">
 <img src="images/design-thinking.svg" alt="Geometric shapes"/>
 </tile>
@@ -61,7 +61,7 @@ Sustainability
     feature_heading_secondary="The methodology that expands and scale"
     feature_background="gray-80"
     feature_description="At Xtressials, we imagine the solutions of the future, with the capacity to scale."
-    href="/approach/decentralization/"
+    href="#"
     title="Learn more">
 <img src="images/services.svg" alt="Ven diagram emphasizing overlapping area"/>
 </tile>
