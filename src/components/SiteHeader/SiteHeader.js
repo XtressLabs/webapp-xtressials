@@ -74,26 +74,9 @@ const SiteHeader = ({
               </HeaderName>
 
               <HeaderNavigation aria-label="Main Navigation">
-                <HeaderMenu aria-label="Approach" className={approachClassName}>
-                  <HeaderMenuItem to="/approach/" element={Link}>
-                    Overview
-                  </HeaderMenuItem>
-                  <HeaderMenuItem
-                    to="/approach/design-philosophy/"
-                    element={Link}>
-                    Sustainability
-                  </HeaderMenuItem>
-                  <HeaderMenuItem
-                    to="/approach/design-thinking/"
-                    element={Link}>
-                    Decentralization
-                  </HeaderMenuItem>
-                  <HeaderMenuItem
-                    to="/approach/design-services/"
-                    element={Link}>
-                    Design services
-                  </HeaderMenuItem>
-                </HeaderMenu>
+                <HeaderMenuItem to="/approach/" element={Link}>
+                  Approach
+                </HeaderMenuItem>
                 <HeaderMenuItem to="/aboutus/" element={Link}>
                   About Us
                 </HeaderMenuItem>
