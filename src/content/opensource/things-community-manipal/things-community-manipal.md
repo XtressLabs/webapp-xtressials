@@ -7,7 +7,7 @@ title: The Things Community Manipal
 <grid classname="background-bleed">
 <column lg="16">
 
-![Zoomed in IBM Think logo.](/images/Image_1.jpg)
+![Zoomed in logo.](/images/Image_1.jpg)
 
 </column>
 </grid>
@@ -21,8 +21,8 @@ title: The Things Community Manipal
 
 <column md="5" lg="8">
 
-<p size="lg">Once a year, all of IBM unites for a one-week event that brings together clients, partners, IBMers and visionaries from around the world.</p>
-<p size="lg">The experiences offered at Think are as diverse as they are numerous, including interactive exhibitions, Think tanks, research demos, live entertainment and beyond. By leveraging the IBM Design Language for everything from the layout of the expo floor to iconography and booth design, Think unifies thousands of individual sessions, creating a cohesive end-to-end experience that is distinctly IBM.</p>
+<p size="lg">Our mission is to provide the entire Manipal with Internet of Things data connectivity by crowdsourcing the network by its citizens and local companies.</p>
+<p size="lg">We invite you to be a part of The Things Network Manipal Community, an initiative to provide the area in and around Manipal, India, with decentralized LoRaWAN offline connectivity.</p>
 
 <icon name="PlexArrowDown"></icon>
 

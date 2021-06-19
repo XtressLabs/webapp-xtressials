@@ -3,14 +3,14 @@ title: Homepage
 ---
 
 <title-block fade="true">
-Empathy is our<br/>foundation, always.
-<span>Now it’s more<br/>important than ever.</span>
+Empathy is <br/>our foundation.
+<span>Innovation being<br/>it's execution.</span>
 </title-block>
 
 <grid background="gray-10">
 <column lg="8" md="5">
 
-<p size="xl">Empathy is how we create a more human-centered design business—it’s who we are. Explore some of our strategic work that prioritizes the needs of the people we design for, and learn from the humans who make it all possible.</p>
+<p size="xl">Explore some of our work that prioritizes the needs of the people we innovate for, and learn from them who makes it all possible.</p>
 
 <icon name="PlexArrowDown"></icon>
 
@@ -27,12 +27,12 @@ Empathy is our<br/>foundation, always.
 </column>
 <column lg="4" md="5">
 
-### It's about time
+### It's about being empathatic
 
 </column>
 <column lg="7" md="5">
 
-## It’s about time we design an equitable future. The Racial Equity in Design initiative is committed to instilling racial equity at our company and our industry through our interactions, investments, and actions.
+## It’s about being empathatic towards creating an equitable and sustainable future...
 
 </column>
 
@@ -44,8 +44,8 @@ Empathy is our<br/>foundation, always.
     size="lg"
     background="#373737"
     dark="false"
-    title="Racial Equity in Design">
-<img src="images/REiD_Home_LANDING.png" alt="Racial Equity in Design banner"/>
+    title="Empathy in Innovation">
+<img src="images/REiD_Home_LANDING_Banner.png" alt=" banner"/>
 </tile>
 
 </column>
@@ -54,18 +54,18 @@ Empathy is our<br/>foundation, always.
 <tile
     href="#"
     dark="false"
-    title="Our call to action">
-<img src="images/REiD_Call_to_action_LANDING.png" alt="Graphic of a finger pressing a key and pulses coming from it."/>
+    title="Our call to Sustainability">
+<img src="images/REiD_Call_to_sustainability_LANDING.png" alt="Graphic of a finger pressing a key and pulses coming from it."/>
 </tile>
 
 </column>
 <column lg="4" md="4">
 
 <tile
-    href="#"
+    href="https://enjoytheprocess.substack.com/"
     dark="false"
-    title="Podcast: It’s about time">
-<img src="images/REiD_podcast_LANDING.png" alt="Photo of Nigel Prentice"/>
+    title="Enjoy The Process">
+<img src="images/REiD_newsletter_LANDING.png" alt="Photo of "/>
 </tile>
 
 </column>
@@ -74,8 +74,8 @@ Empathy is our<br/>foundation, always.
 <tile
     href="#"
     dark="false"
-    title="Field Guide">
-<img src="images/REiD_field_guide_LANDING.png" alt="Photo of the Field Guide"/>
+    title="Decentralization is the Future">
+<img src="images/REiD_decentralization_LANDING.png" alt="Photo of the"/>
 </tile>
 
 </column>
@@ -92,13 +92,14 @@ Empathy is our<br/>foundation, always.
 
 <column lg="4" md="5">
 
-### Featured community
+### Featured community members
 
 </column>
 
 <column lg="7" md="5">
 
-## Celebrating our diverse community is a point of pride for IBM as we continually strive towards a more inclusive workplace. Explore insights from women in design who are driving innovation and impact across IBM.
+## Great things in business are never done by one person,They are done by a team of people.
+> ***-Steve Jobs***
 
 </column>
 </grid>
@@ -107,10 +108,10 @@ Empathy is our<br/>foundation, always.
 <column lg="4" md="4" offset_lg="4">
 
 <tile
-    href="/community/Vishesh/"
-    title="Vishesh Ghorawat"
+    href="https://www.linkedin.com/in/akashagarwal4/"
+    title="Akash Agarwal"
     icon="arrowRight">
-<img src="community/Vishesh/608x608.jpg" alt="Portrait of Vishesh Ghorawat" />
+<img src="community/Akash/608x608.png" alt="Portrait of Akash Agarwal" />
 </tile>
 
 </column>
@@ -118,122 +119,81 @@ Empathy is our<br/>foundation, always.
 <column lg="4" md="4">
 
 <tile
-    href="/community/Ishika/"
+    href="https://www.linkedin.com/in/harshit-yaduka-454a701b1/"
+    title="Harshit Yaduka"
+    icon="arrowRight">
+<img src="community/Harshit/608x608.png" alt="Harshit Yaduka" />
+</tile>
+
+</column>
+
+<column lg="4" md="4">
+<tile
+    href="https://www.linkedin.com/in/ishika-g-8653a3135/"
     title="Ishika Gupta"
     icon="arrowRight">
-<img src="community/Ishika/608x608.jpg" alt="Ishika Gupta" />
+<img src="community/Ishika/608x608.png" alt="Portrait of Ishika Gupta" />
+</tile>
+
+</column>
+
+<column lg="4" md="4" offset_lg="4">
+<tile
+    href="#"
+    title="Jai Chhaya"
+    icon="arrowRight">
+<img src="community/Jai/608x608.jpg" alt="Portrait of Jai Chhaya" />
 </tile>
 
 </column>
 
 <column lg="4" md="4">
 <tile
-    href="/community/Laaboni/"
+    href="https://www.linkedin.com/in/laaboni-mukerjee-16b34b188/"
     title="Laaboni Mukerjee"
     icon="arrowRight">
-<img src="community/Laaboni/608x608.jpg" alt="Portrait of Laaboni Mukerjee" />
+<img src="community/Laaboni/608x608.png" alt="Portrait of Laaboni Mukerjee" />
+</tile>
+
+</column>
+
+<column lg="4" md="4" >
+<tile
+    href="https://www.linkedin.com/in/prnvprbh/"
+    title="Pranav Prabhu"
+    icon="arrowRight">
+<img src="community/Pranav/608x608.png" alt="Portrait of Pranav Prabhu" />
 </tile>
 </column>
 
 <column lg="4" md="4" offset_lg="4">
 <tile
-    href="/community/Harshit/"
-    title="Harshit Yaduka"
-    icon="arrowRight">
-<img src="community/Harshit/608x608.jpg" alt="Portrait of Harshit Yaduka" />
-</tile>
-</column>
-
-<column lg="4" md="4">
-<tile
-    href="/community/Pratyaksh/"
+    href="https://www.linkedin.com/in/oscillator25/"
     title="Pratyaksh Gupta"
     icon="arrowRight">
 <img src="community/Pratyaksh/608x608.png" alt="Portrait of Pratyaksh Gupta" />
 </tile>
+
 </column>
 
 <column lg="4" md="4">
 <tile
-    href="/community/Roxanne/"
-    title="Roxanne Ma"
-    icon="arrowRight">
-<img src="community/Roxanne/608x608.jpg" alt="Portrait of Roxanne Ma" />
-</tile>
-</tile>
-</column>
-
-<column lg="4" md="4" offset_lg="4">
-<tile
-    href="/community/Rosa/"
-    title="Rosa Espadaler Mazo"
-    icon="arrowRight">
-<img src="community/Rosa/608x608.jpg" alt="Rosa Espadaler Mazo" />
-</tile>
-</tile>
-</column>
-
-<column lg="4" md="4">
-<tile
-    href="/community/Haidy/"
-    title="Haidy Perez-Francis"
-    icon="arrowRight">
-<img src="community/Haidy/608x608.jpg" alt="Portrait of Haidy Perez-Francis" />
-</tile>
-</column>
-
-<column lg="4" md="4" >
-<tile
-    href="/community/Ujjwal/"
-    title="Ujjwal Reddy"
-    icon="arrowRight">
-<img src="community/Ujjwal/608x608.jpg" alt="Portrait of Ujjwal Reddy" />
-</tile>
-</column>
-
-<column lg="4" md="4" offset_lg="4">
-<tile
-    href="/community/Shriti/"
+    href="https://www.linkedin.com/in/shritichandra/"
     title="Shriti Chandra"
     icon="arrowRight">
 <img src="community/Shriti/608x608.png" alt="Portrait of Shriti Chandra" />
 </tile>
-</column>
 
-<column lg="4" md="4" >
-<tile
-    href="/community/Pranav/"
-    title="Pranav Prabhu"
-    icon="arrowRight">
-<img src="community/Pranav/608x608.jpg" alt="Portrait of Pranav Prabhu" />
-</tile>
-</column>
-
-<column lg="4" md="4" >
-<tile
-    href="/community/Jai/"
-    title="Jai Chhaya"
-    icon="arrowRight">
-<img src="community/Jai/608x608.png" alt="Portrait of Jai Chhaya" />
-</tile>
-</column>
-
-<column lg="4" md="4" offset_lg="4">
-<tile
-    href="/community/Susana/"
-    title="Susana Rodriguez de Tembleque"
-    icon="arrowRight">
-<img src="community/Susana/608x608.jpg" alt="Portrait of Susana Rodriguez de Tembleque" />
-</tile>
 </column>
 
 <column lg="4" md="4">
 <tile
-    href="/community/Jenny/"
-    title="Jenny Woo"
+    href="https://www.linkedin.com/in/vishesh-ghorawat-a0382b1b1/"
+    title="Vishesh Ghorawat"
     icon="arrowRight">
-<img src="community/Jenny/608x608.jpg" alt="Portrait of Jenny Woo" />
+<img src="community/Vishesh/608x608.png" alt="Portrait of Vishesh Ghorawat" />
 </tile>
+
 </column>
 
 </grid>
@@ -260,7 +220,7 @@ Empathy is our<br/>foundation, always.
 <tile title_size="small"
     href="/opensource/the-help-network/"
     title="The Help Network">
-<img src="images/Image_1.jpg" alt="" />
+<img src="images/Image_1.png" alt="" />
 </tile>
 
 </column>
@@ -291,3 +251,4 @@ Empathy is our<br/>foundation, always.
 </grid>
 
 <!-- Outcomes End -->
+

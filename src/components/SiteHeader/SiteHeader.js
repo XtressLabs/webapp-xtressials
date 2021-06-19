@@ -98,7 +98,7 @@ const SiteHeader = ({
                   About Us
                 </HeaderMenuItem>
                 <HeaderMenuItem to="/projects/" element={Link}>
-                  Projects & Partners
+                  Projects
                 </HeaderMenuItem>
                 <HeaderMenu aria-label="Open Source" className={approachClassName}>
                   <HeaderMenuItem to="/opensource/" element={Link}>

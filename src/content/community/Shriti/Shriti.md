@@ -9,7 +9,7 @@ title: Shriti Chandra
 
 ![Shriti Chandra card image](./608x608.png)
 
-![Shriti Chandra hero image](./2624x1120.jpg)
+![Shriti Chandra hero image](./2624x1120.png)
 
 </art-direction>
 

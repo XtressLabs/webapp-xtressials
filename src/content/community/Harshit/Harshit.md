@@ -7,9 +7,9 @@ title: Harshit Yaduka
 
 <art-direction>
 
-![Harshit Yaduka card image](./608x608.jpg)
+![Harshit Yaduka card image](./608x608.png)
 
-![Harshit Yaduka hero image](./2624x1120.jpg)
+![Harshit Yaduka hero image](./2624x1120.png)
 
 </art-direction>
 

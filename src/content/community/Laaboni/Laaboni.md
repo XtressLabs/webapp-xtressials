@@ -1,5 +1,5 @@
 ---
-title: Jodi Cutler
+title: Laaboni Mukerjee
 ---
 
 <grid classname="background-bleed">
@@ -7,13 +7,13 @@ title: Jodi Cutler
 
 <art-direction>
 
-![Jodi Cutler card image](./608x608.jpg)
+![Laaboni Mukerjee card image](./608x608.png)
 
-![Jodi Cutler hero image](./2624x1120.jpg)
+![Laaboni Mukerjee hero image](./2624x1120.png)
 
 </art-direction>
 
-<community-lead name="Jodi Cutler" position="Design Principal and Practice Lead" department="IBM Watson Health"></community-lead>
+<community-lead name="Laaboni Mukerjee" position="Design Principal and Practice Lead" department="IBM Watson Health"></community-lead>
 
 </column>
 </grid>

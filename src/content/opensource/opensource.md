@@ -3,18 +3,17 @@ title: Open Source
 ---
 
 <title-block>
-Design is simply<br>
-the means.<br>
-<span>Business outcomes
-<br>are the goal.</span>
+Creativity explodes<br>
+with collaboration.<br>
+<span>What next follows
+<br>is true Sustainability.</span>
 </title-block>
 
 <grid background="gray-10">
 <column lg="8" md="5">
 
-<p size="xl">In a world where every challenge is complex and unique, good design values unity over uniformity. Explore some of the different outcomes we’ve delivered for our clients and users below.</p>
-
-<icon name="PlexArrowDown"></icon>
+## When people are financially invested, they want a return. When people are emotionally invested, they want to contribute.
+>    -***Simon Sinek*** 
 
 </column>
 </grid>
@@ -122,7 +121,7 @@ the means.<br>
 </column>
 
 <column lg="4"  md="4">
-  <tile title_size="small" title="Gallery" href="/impact/quantum/">
+  <tile title_size="small" title="Gallery: Partner Projects" href="#">
     <img src="images/Image_2.jpg" alt=""/>
   </tile>
 
@@ -141,7 +140,7 @@ the means.<br>
 </column>
 
 <column lg="4" md="4">
-  <tile title_size="small" title="Gallery" href="/opensource/security/">
+  <tile title_size="small" title="Gallery: Community Events" href="#">
     <img src="images/Image_5.jpg" alt=""/>
   </tile>
 
@@ -168,7 +167,7 @@ the means.<br>
 </column>
 
 <column lg="4" md="4">
-  <tile title_size="small" title="Gallery" href="/opensource/plex/">
+  <tile title_size="small" title="GitHub" href="https://github.com/">
     <img src="images/Image_8.jpg" alt=""/>
   </tile>
 

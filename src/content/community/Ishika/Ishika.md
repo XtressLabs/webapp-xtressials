@@ -7,9 +7,9 @@ title: Ishika Gupta
 
 <art-direction>
 
-![Ishika Gupta card image](./608x608.jpg)
+![Ishika Gupta card image](./608x608.png)
 
-![Ishika Gupta hero image](./2624x1120.jpg)
+![Ishika Gupta hero image](./2624x1120.png)
 
 </art-direction>
 

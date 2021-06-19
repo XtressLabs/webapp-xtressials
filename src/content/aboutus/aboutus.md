@@ -4,15 +4,15 @@ title: About Us
 
 <title-block>
 
-A solution’s quality<br>hinges directly on<br>
-<span>the qualities of the<br>team delivering it.</span>
+Make it simple.<br>Make it memorable.<br>
+<span>Make it inviting to use.<br>Make it fun to ease.</span>
 
 <anchor-links>
 
 <ul>
 <li><a data-scroll href="#about-us">About Us</a></li>
 <li><a data-scroll href="#the-vision">The Vision</a></li>
-<li><a data-scroll href="#our-team">Our Team</a></li>
+<li><a data-scroll href="#our-partners-and-supporters">Our Partners</a></li>
 <li><a data-scroll href="#join-our-team">Join Our Team</a></li>
 </ul>
 
@@ -23,9 +23,9 @@ A solution’s quality<br>hinges directly on<br>
 <grid background="gray-10">
 <column lg="8" md="5">
 
-<p size="xl">The foundational unit of design is the
-team. Learn how we leverage diversity
-to strengthen our teams and deliver meaningful outcomes.</p>
+<p size="xl">The foundational unit of innovation is the
+team. Learn how we leverage our skills
+to create and deliver meaningful outcomes.</p>
 
 <icon name="PlexArrowDown"></icon>
 
@@ -44,71 +44,63 @@ to strengthen our teams and deliver meaningful outcomes.</p>
 </column>
 <column lg="8" md="5">
 
-## Complex, multi-faceted challenges demand diverse, multi-talented teams.
+## Xtressials was founded as a student initiative to develop projects aiming at solving real-world problems.
 
-When tackling complex problems at scale, we rely on the strength of diverse multidisciplinary teams to envision and execute on solutions that generate value for both our users and our clients.
 
-Diversity comes in many forms: your job role, your educational history, your cultural background—all are important, and all are crucial to a team’s ability to deliver robust, differentiated outcomes.
+
+Our founder Pratyaksh Gupta, gathered a cloud credit funding worth USD12000 from a major cloud provider and started tackling complex problems at scale, while extending his projects and relying on the strength of his diverse multidisciplinary teams to envision and execute on solutions that generates the required value.
 
 </column>
 <column lg="8" offset_lg="4" md="5" fade="true">
 
-![Cheerful woman sitting cross-legged on a chair engaged in conversation with you.](images/Image_1.jpg)
 
 </column>
 <column lg="4" md="3" fade="true">
 
-![Man wearing glasses not quite staring at the camera and isn't certain if he should smile.](images/Image_2.jpg)
+
 
 </column>
 
 </column>
 <column lg="4" offset_lg="4" md="3" fade="true">
 
-![Man with his hands in his pockets staring pleasantly into the camera.](images/Image_3.jpg)
+
 
 </column>
 <column lg="8" md="5" fade="true">
 
-![Woman with her hands on her hips and ready to get things done.](images/Image_4.jpg)
+
 
 </column>
 </grid>
 <grid background="gray-10">
 <column lg="12" offset_lg="4">
 
-## The dimensions of diversity
+## The pillars of foundation at Xtressials
 
 </column>
 <column lg="4" offset_lg="4" border="true" md="5">
 
-### Identity
+### Aim For Sustainability
 
-Age and ability  
-Gender identity  
-Race and ethnicity
+
 
 ![teams](images/identity.svg)
 
 </column>
 <column lg="4" border="true" md="5">
 
-### Experience
+### Enjoy The Process
 
-Cultural upbringing  
-Geography  
-Language
 
 ![teams](images/experience.svg)
 
 </column>
 <column lg="4" border="true" md="5">
 
-### Expertise
+### Excecute Decentralization
 
-Education  
-Organization  
-Discipline
+
 
 ![teams](images/expertise.svg)
 
@@ -122,74 +114,61 @@ Discipline
 </column>
 <column lg="8" md="5">
 
-## Good design requires a deep understanding of the business domain that's being designed for.
+## .
 
-Rather than siloing designers into a single organization, we distribute them throughout teams and business units across IBM.
-
-Embedding designers directly into the business allows them to build a rigorous understanding of the domain they’re working in. This knowledge, in turn, helps them align and collaborate more effectively with developers, engineers, product managers, and all of the other disciplines that must come together to deliver a great outcome.
+From the initial visioning stages through to development and beyond, we aim at sustainable outcomes to ensure that every decision we make is rooted and aligns with our goals and project's need.
 
 </column>
 <column lg="8" offset_lg="4" md="5" fade="true">
 
-![An overhead shot of oranges on a conveyor belt](images/Image_5.jpg)
+
 
 </column>
 <column lg="4" md="3" fade="true">
 
-![A woman sitting in her office concentrating on a book she is reading with a hillside backdrop in the background.](images/Image_6.jpg)
+
 
 </column>
 
 </column>
 <column lg="4" offset_lg="4" md="3" fade="true">
 
-![Hey! It's a Watson logo!](images/Image_7.jpg)
+
 
 </column>
 <column lg="8" md="5" fade="true">
 
-![Man configuring networking equipment in a hallway of network applicance.](images/Image_8.jpg)
+
 
 </column>
 </grid>
 <grid background="gray-10">
 <column lg="4">
 
-### Our Team
+### Our Partners and Supporters
 
 </column>
 <column lg="8" md="5">
 
-## When users are intimately involved in the design process, you’re all but guaranteed to create something they love.
-
-Human-centered design goes far beyond just speaking with a few people before you get started; it’s about truly co-creating with your business users and stakeholders by bringing them into the design process from Day 1.
-
-From the initial visioning stages through to delivery and beyond, we work closely with both of these groups to ensure that every decision we make is rooted in a deep understanding of their goals and needs.
-
-</column>
-<column lg="8" offset_lg="4" md="5" fade="true">
-
-![Woman staring into the camera from a nondescriptive location.](images/Image_9.jpg)
-
-</column>
-<column lg="4" md="3" fade="true">
-
-![Man and woman on stools doing work things from what appears to be some sort of coffee shop.](images/Image_10.jpg)
-
-</column>
+## .
 
 </column>
 <column lg="4" offset_lg="4" md="3" fade="true">
 
-![Man in a suit getting ready to make business happen.](images/Image_11.jpg)
+<tile title_size="small" title="Member: Samsung Smart Things Developer" href="#">
+    <img src="images/Image_6.png" alt=""/>
+  </tile>
 
 </column>
-<column lg="8" md="5" fade="true">
+<column lg="4" md="3" fade="true">
 
-![Woman retrieving a box from an inventory warehouse with hundreds items.](images/Image_12.jpg)
+<tile title_size="small" title="Member: Intel®️ Partner Alliance" href="#">
+    <img src="images/Image_7.png" alt=""/>
+  </tile>
 
 </column>
 </grid>
+
 <grid background="gray-100">
 <column lg="7" md="5">
 

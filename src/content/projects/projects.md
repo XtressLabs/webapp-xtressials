@@ -3,11 +3,10 @@ title: Projects
 ---
 
 <title-block>
-
-The strongest<br>
-bonds are formed<br>
-<span>when aesthetic<br>
-meets pragmatic.</span>
+The best problems<br>
+to work on are often <br>
+<span>the ones nobody else<br>
+even tries to solve.</span>
 
 <anchor-links>
 
@@ -26,7 +25,7 @@ meets pragmatic.</span>
 <grid background="gray-100">
 <column lg="8" md="5">
 
-<p size="xl">Tap into a growing collection of design tools, assets, and resources to keep your business moving forward.</p>
+<p size="xl">Explore the growing plethora of projects and solutions designed to innovate the present and sustain the future.</p>
 
 <icon name="PlexArrowDown" color="white"></icon>
 
@@ -45,7 +44,7 @@ meets pragmatic.</span>
 </column>
 <column lg="7" md="5">
 
-## Principles, guidelines, and ready-made assets to help you build exceptional experiences.
+## We care and develop for sustainability and well-being.
 
 </column>
 
@@ -67,28 +66,8 @@ meets pragmatic.</span>
 <tile
     href=""
     dark="true"
-    title="XtressCare">
-<img src="images/Image_2.png" alt=""/>
-</tile>
-
-</column>
-<column lg="4" md="4">
-
-<tile
-    href=""
-    dark="true"
     title="Xtressials Safety, Security & Surveillance Retrofit">
 <img src="images/Image_3.png" alt=""/>
-</tile>
-
-</column>
-<column lg="4" md="4" offset_lg="0"  offset_md="4">
-
-<tile
-    href=""
-    dark="true"
-    title="XtressTwins">
-<img src="images/Image_4.png" alt=""/>
 </tile>
 
 </column>
@@ -106,7 +85,7 @@ meets pragmatic.</span>
 </column>
 <column lg="7" md="5">
 
-## A scalable learning approach that combines online learning with in-person activation to make design thinking stick.
+## Collaboration that combines trust, accountability, and transparency among the community.
 
 </column>
 <column lg="12" offset_lg="4">
@@ -143,7 +122,7 @@ meets pragmatic.</span>
 </column>
 <column lg="7" md="5">
 
-## A collection of guidelines, resources, and ethics to give you what you need to design human-centric AI solutions.
+## We design human-centric innovative solutions for those in need.
 
 </column>
 
@@ -204,7 +183,7 @@ meets pragmatic.</span>
 </column>
 <column lg="7" md="5">
 
-## Resources and guidance crafted by IBM’s accessibility experts to help any product team deliver an accessible solution to the market.
+## IoT Platform crafted by Xtressials accessibility team to help you deliver accessible IoT solutions to the market.
 
 </column>
 <column lg="12" offset_lg="4">
@@ -234,7 +213,7 @@ meets pragmatic.</span>
 </column>
 <column lg="7" md="5">
 
-## Providing Stress-Free Health Monitoring For Elderly. Resources and guidance crafted by IBM’s accessibility experts to help any product team deliver an accessible solution to the market.
+## We aim towards developing a stress-free, cost effective, simple to use vital monitoring system for the elderly.
 
 </column>
 <column lg="12" offset_lg="4">

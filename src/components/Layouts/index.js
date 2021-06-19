@@ -166,6 +166,7 @@ class Layout extends React.Component {
                   Last updated {lastUpdated}
                   <br />
                   Copyright © {currentYear} Xtressials
+                  <br />[Inspired By IBM Carbon Design System]
                 </p>
               </WebsiteFooter>
             </div>
