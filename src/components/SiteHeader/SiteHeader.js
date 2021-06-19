@@ -116,28 +116,9 @@ const SiteHeader = ({
               aria-label="Mobile Navigation"
               className={sideNavclassNames}>
               <SideNavItems>
-                <SideNavMenu
-                  title="Approach"
-                  defaultExpanded={approachActive ? true : false}>
-                  <SideNavMenuItem to="/approach/" element={Link}>
-                    Overview
-                  </SideNavMenuItem>
-                  <SideNavMenuItem
-                    to="/approach/design-philosophy/"
-                    element={Link}>
-                    Design philosophy
-                  </SideNavMenuItem>
-                  <SideNavMenuItem
-                    to="/approach/design-thinking/"
-                    element={Link}>
-                    Design thinking
-                  </SideNavMenuItem>
-                  <SideNavMenuItem
-                    to="/approach/design-services/"
-                    element={Link}>
-                    Design services
-                  </SideNavMenuItem>
-                </SideNavMenu>
+                <SideNavLink to="/approach/" element={Link}>
+                  Approach
+                </SideNavLink>
                 <SideNavLink to="/aboutus/" element={Link}>
                   About Us
                 </SideNavLink>
