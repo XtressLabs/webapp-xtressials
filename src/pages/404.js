@@ -19,7 +19,7 @@ class NotFoundPage extends React.Component {
                 <Link to="/aboutus">About Us</Link>
               </li>
               <li>
-                <Link to="/practices">Practices</Link>
+                <Link to="/projects">Projects</Link>
               </li>
               <li>
                 <Link to="/opensource">Open Source</Link>
