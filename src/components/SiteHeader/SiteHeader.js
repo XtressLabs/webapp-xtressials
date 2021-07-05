@@ -174,8 +174,12 @@ const SiteHeader = ({
                   linkText: 'Events',
                 },
                 {
-                  href: 'http://xtressials.eventbrite.com',
+                  href: 'https://enjoytheprocess.substack.com/',
                   linkText: 'Newsletter',
+                },
+                {
+                  href: 'https://app.box.com/s/asyyshbv5z3phh582zosj6fdhm0btqg8',
+                  linkText: 'Pitch Deck',
                 },
                 {
                  // href: 'https://enjoytheprocess.substack.com/',
