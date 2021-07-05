@@ -114,9 +114,9 @@ We gathered a cloud credit funding worth USD12000 from a major cloud provider an
 </column>
 <column lg="8" md="5">
 
-## .
+## When citizens are intimately involved in the process, you’re all but guaranteed to making India disaster resilient.
 
-From the initial visioning stages through to development and beyond, we aim at sustainable outcomes to ensure that every decision we make is rooted and aligns with our goals and project's need.
+From the initial visioning stages through to development and beyond, we aim at sustainable outcomes and collaborate with people to ensure that every decision we make is rooted and aligns with our goals and nation's need.
 
 </column>
 <column lg="8" offset_lg="4" md="5" fade="true">
@@ -150,7 +150,7 @@ From the initial visioning stages through to development and beyond, we aim at s
 </column>
 <column lg="8" md="5">
 
-## .
+## Here are our esteem supporters who are helping us improve the life of billions.
 
 </column>
 <column lg="4" offset_lg="4" md="3" fade="true">
@@ -291,10 +291,10 @@ From the initial visioning stages through to development and beyond, we aim at s
 <column lg="8" offset_lg="4" md="5">
 
 <carousel id="c3" count="1 2 3 4">
-  <img src="images/services-carousel/Image_1.jpg" alt="Two mobile devices showing IBM iX artifacts."/>
-  <img src="images/services-carousel/Image_2.jpg" alt="IBM iX branding."/>
-  <img src="images/services-carousel/Image_3.jpg" alt="Profile shot of a man wearing IBM iX branding."/>
-  <img src="images/services-carousel/Image_4.jpg" alt="More IBM iX branding."/>
+  <img src="images/services-carousel/Image01.png" alt="Two mobile devices showing IBM iX artifacts."/>
+  <img src="images/services-carousel/Image02.png" alt="IBM iX branding."/>
+  <img src="images/services-carousel/Image03.png" alt="Profile shot of a man wearing IBM iX branding."/>
+  <img src="images/services-carousel/Image04.png" alt="More IBM iX branding."/>
 </carousel>
 
 </column>
