@@ -3,8 +3,8 @@ title: Homepage
 ---
 
 <title-block fade="true">
-Empathy is <br/>our foundation.
-<span>Innovation being<br/>it's execution.</span>
+Building <br/>India's First P2P
+<span>Disaster Resilience <br/> Network.</span>
 </title-block>
 
 <grid background="gray-10">

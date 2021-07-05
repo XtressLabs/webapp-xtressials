@@ -48,7 +48,7 @@ to create and deliver meaningful outcomes.</p>
 
 
 
-Our founder Pratyaksh Gupta, gathered a cloud credit funding worth USD12000 from a major cloud provider and started tackling complex problems at scale, while extending his projects and relying on the strength of his diverse multidisciplinary teams to envision and execute on solutions that generates the required value.
+We gathered a cloud credit funding worth USD12000 from a major cloud provider and started tackling complex problems at scale, while extending his projects and relying on the strength of his diverse multidisciplinary teams to envision and execute on solutions that generates the required value.
 
 </column>
 <column lg="8" offset_lg="4" md="5" fade="true">
