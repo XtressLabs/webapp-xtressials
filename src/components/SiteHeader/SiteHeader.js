@@ -166,10 +166,6 @@ const SiteHeader = ({
                   linkText: 'XtressVue',
                 },
                 {
-                  href: 'https://github.com/orgs/Xtressials',
-                  linkText: 'Projects',
-                },
-                {
                   href: 'http://xtressials.eventbrite.com',
                   linkText: 'Events',
                 },
